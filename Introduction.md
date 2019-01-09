@@ -1,3 +1,7 @@
+---
+title: Introduction
+---
+
 SampSharp was written by [Tim Potze] in order to
 allow you to write game modes using C#. Although SampSharp also allows you to
 write game modes using any other .NET language, such as Visual Basic and F#,
